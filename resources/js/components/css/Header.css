@@ -1,0 +1,47 @@
+.navbar{
+    background-color: #301919;
+}
+
+.collapse{
+    background-color: #301919;
+}
+
+.navbar-nav{
+    background-color: #301919;
+}
+
+.nav-item{
+  color: #ffebc2;
+  border-radius: 20%;
+}
+
+.nav-item:active{
+  background-color: #ffebc2;
+  color: black;
+}
+
+.nav-item:hover{
+  background-color: #ffebc2;
+  color: black;
+}
+
+.navbar-brand{
+  color: #ffebc2;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.navbar-brand:hover{
+  color: #ffebc2;
+}
+
+.fixed-bottom{
+  background-color: #301919;
+  color: #ffebc2;
+}
+
+#logo{
+  max-width: 30px;
+  max-height: 30px;
+  margin-right: 30px;
+}
